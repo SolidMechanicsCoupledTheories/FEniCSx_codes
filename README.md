@@ -30,3 +30,8 @@ These are our preferred methods for editing and running FEniCSx codes, although 
 If you use these codes in your own research, please cite:
 
 - L. Anand, E.M. Stewart, & S.A. Chester. _Introduction to coupled theories in solid mechanics_. 2025, in preparation.
+
+## Legacy codes
+
+``Legacy FEniCS" versions of some of the example codes presented in this repository are available in the following repository:
+- [https://github.com/SolidMechanicsCoupledTheories/example_codes](https://github.com/SolidMechanicsCoupledTheories/example_codes)
