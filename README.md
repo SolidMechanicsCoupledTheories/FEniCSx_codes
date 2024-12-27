@@ -33,5 +33,5 @@ If you use these codes in your own research, please cite:
 
 ## Legacy codes
 
-``Legacy FEniCS" versions of some of the example codes presented in this repository are available in the following repository:
+"Legacy" FEniCS versions of some of the example codes presented in this repository are available in the following repository:
 - [https://github.com/SolidMechanicsCoupledTheories/example_codes](https://github.com/SolidMechanicsCoupledTheories/example_codes)
