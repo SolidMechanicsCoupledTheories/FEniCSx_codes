@@ -1,0 +1,53 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+title: Introduction to Coupled Theories in Solid Mechanics
+parts:
+- caption: I: Finite elasticity
+  chapters:
+  - file: intro/linear_elasticity/linear_elasticity.md
+  - file: intro/hyperelasticity/hyperelasticity.md
+  - file: intro/plates/plates.md
+# - caption: Tours
+#   chapters:
+#   - file: tours/linear_problems/contents
+#     sections:
+#     - file: tours/linear_problems/isotropic_orthotropic_elasticity/isotropic_orthotropic_elasticity.md
+#     - file: tours/linear_problems/axisymmetric_elasticity/axisymmetric_elasticity.md
+#     - file: tours/linear_problems/thermoelasticity_weak/thermoelasticity_weak.md
+#     - file: tours/linear_problems/thermoelasticity_full/thermoelasticity_full.md
+#   - file: tours/dynamics/contents
+#     sections:
+#     - file: tours/dynamics/elastodynamics_newmark/elastodynamics_newmark.md
+#   - file: tours/nonlinear_problems/contents
+#     sections:
+#     - file: tours/nonlinear_problems/plasticity/plasticity.md
+#     - file: tours/nonlinear_problems/linear_viscoelasticity_jax/linear_viscoelasticity_jax.md
+#     - file: tours/nonlinear_problems/bound_constrained/bound_constrained.md
+#   - file: tours/eigenvalue_problems/contents
+#     sections:
+#     - file: tours/eigenvalue_problems/buckling_3d_solid/buckling_3d_solid.md
+#   - file: tours/homogenization/contents
+#     sections:
+#     - file: tours/homogenization/periodic_elasticity/periodic_elasticity.md
+#   - file: tours/beams/contents
+#     sections:
+#     - file: tours/beams/linear_truss/linear_truss.md
+#     - file: tours/beams/beams_3D/beams_3D.md
+#   - file: tours/plates/contents
+#     sections:
+#     - file: tours/plates/reissner_mindlin_quads/reissner_mindlin_quads.md
+#   - file: tours/shells/contents
+#     sections:
+#     - file: tours/shells/linear_shell/linear_shell.md
+#     - file: tours/shells/I_beam_gmsh/I_beam_gmsh.md
+# - caption: Tips and tricks
+#   chapters:
+#   - file: tips/mark_facets/mark_facets.md
+#   - file: tips/import_msh/import_msh.md
+#   - file: tips/piecewise_constant_field/piecewise_constant_field.md
+#   - file: tips/mass_lumping/mass_lumping.md
+#   - file: tips/quadrature_schemes/quadrature_schemes.md
+#   - file: tips/computing_reactions/computing_reactions.md
