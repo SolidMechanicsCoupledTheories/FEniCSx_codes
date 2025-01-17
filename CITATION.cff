@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Stewart"
+  given-names: "Eric M."
+  orcid: "https://orcid.org/0000-0002-4572-004X"
+- family-names: "Chester"
+  given-names: "Shawn A."
+- family-names: "Anand"
+  given-names: "Lallit"
+title: "Example codes for coupled theories in solid mechanics"
+version: 0.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-01-17
+url: "https://github.com/SolidMechanicsCoupledTheories/FEniCSx_codes"
