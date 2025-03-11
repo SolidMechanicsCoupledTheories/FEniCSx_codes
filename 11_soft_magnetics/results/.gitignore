@@ -1,0 +1,3 @@
+# A "hacky" way of ensuring there's an empty results folder in the repository, 
+# which is populated when users run simulations.
+!.gitignore
