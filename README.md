@@ -33,7 +33,7 @@ If you use these codes in your own research, please cite the software:
 
 as well as the associated textbook:
 
-- L. Anand, E. M. Stewart, and S. A. Chester. _Introduction to coupled theories in solid mechanics_. 2025, in preparation.
+- L. Anand, E. M. Stewart, and S. A. Chester. _Introduction to coupled theories in solid mechanics_. Oxford University Press, 2026.
 
 
 BibTeX citations: 
@@ -50,10 +50,11 @@ BibTeX citations:
   url          = {https://doi.org/10.5281/zenodo.14680876}
 }
 
-@book{anand2025,
+@book{anand2026,
 author={Anand, L. and Stewart, E. M. and Chester, S. A.},
          title={Introduction to coupled theories in solid mechanics},
-         year={2025, in preparation.}
+         publisher = {Oxford University Press},
+         year={2026}
      }
 ```
 
